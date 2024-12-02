@@ -8,9 +8,9 @@
 - My self-taught programming got a real shape after qualifying for the "IIT Madras BS Degree in Programming and Data Science"
 - IIT Madras solidified my confidence and knowledge in the field of tech, web dev, and especially Application development and Data science. 
 - I am looking forward to creating real value with the skills that I have gained and will gain in this wonderful journey.
-- 👀 I’m interested in ... Dev-ops, App dev, mobile apps, entrepreneurhips, Open to Dev / Data Science Jobs
-- 🌱 I’m currently learning ... PDSA, DBMS, Linear Algebra, Statistics for Data Science
-- 📫 How to reach me ... dibakash@gmail.com
+- 👀 I’m interested in ... Dev-ops, App dev, mobile apps, entrepreneurship, Open to Dev / Data Science Jobs
+- 🌱 I’m currently learning: Vue, React, Django, Flask, Flutter, Persuing IIT Madras BS Degree Course
+- 📫 How to reach me ... dibakash@gmail.com, +91-9127065464
 
 <!---
 dibakash/dibakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
